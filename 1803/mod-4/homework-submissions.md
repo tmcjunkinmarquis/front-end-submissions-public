@@ -22,11 +22,21 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ---
 
+
+### Alan Charles
+
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
+
 ### Andrew James
 
-* [Node Server Tutorial](https://github.com/andrew-t-james/mod4-pre-work)
-* [Express Tutorial](https://github.com/andrew-t-james/mod4-pre-work) - Complete through 4
-* [Promise Practice Exercises](https://github.com/andrew-t-james/mod4-pre-work)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
@@ -42,18 +52,18 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Austin Wiedenman
 
-* [Node Server Tutorial](https://gist.github.com/Awiedenman/d4c80d19c071437876fdee248e58b7eb)
-* [Express Tutorial](https://github.com/Awiedenman/express-lesson) - I worked on adding a button that changed the words on the screen on click, I added a response for 404, and I attempted to get a page with sunset pictures to show on another route.
-* [Promise Practice Exercises](https://gist.github.com/Awiedenman/627d37e52a4cda3b4fcafd136af83ad3)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
 
 ### David Dunn
 
-* [Node Server Tutorial](https://gist.github.com/dsdunn/9f9c98f33f8976fd1c6e5aaac764b2b6)
-* [Express Tutorial](https://github.com/dsdunn/mod4expressPrework) 1-3
-* [Promise Practice Exercises](https://gist.github.com/dsdunn/86af845ae13cfc2351d9002052f16d1a)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
@@ -69,19 +79,45 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Jeremiah Stanley
 
-* [Node Server Tutorial](https://gist.github.com/jeremiahjstanley/e582019634adaa5ccc1d33da6115ee9c)
-* [Express Tutorial](https://github.com/jeremiahjstanley/express-tutorial) - 1, 2, 4
-* [Promise Practice Exercises](https://gist.github.com/jeremiahjstanley/f884250bf631e604876c5c972ee12d1d)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
+
+### Joel OConnor
+
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
+
+### Keeliana Marler
+
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
+* [House of Vars Blog Post]()
+* [Pattern Party Repo]()
+* [Pattern Party GitHub Pages]()
+
+### Lee Graham
+
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
 
 ### Marika Ross
 
-* [Node Server Tutorial](https://github.com/marikaross/node)
-* [Express Tutorial](https://github.com/marikaross/express-practice) - What additional items did you work on?
-* Items 1, 2, 3
-* [Promise Practice Exercises](https://repl.it/@marikaross/Promise-Practice)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
@@ -106,18 +142,18 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Spenser Leighton
 
-* [Node Server Tutorial](https://gist.github.com/spenserleighton1/96f2855993b68d88ca7219eebd6a0d65)
-* [Express Tutorial](https://github.com/spenserleighton1/express-tutorial) - What additional items did you work on?
-* [Promise Practice Exercises](https://gist.github.com/spenserleighton1/ccf6cd1b683a445ded7726f1b3518e03)
+* [Node Server Tutorial]()
+* [Express Tutorial]() - What additional items did you work on?
+* [Promise Practice Exercises]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
 
 ### Theresa Marquis
 
-* [Node Server Tutorial]()
-* [Express Tutorial]() - What additional items did you work on?
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/tmcjunkinmarquis/Node-Server-Tutorial)
+* [Express Tutorial](https://github.com/tmcjunkinmarquis/Express-Tutorial) - button, json file, 404 page, (sunsets not working)
+* [Promise Practice Exercises](https://github.com/tmcjunkinmarquis/prework)
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
